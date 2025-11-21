@@ -59,7 +59,7 @@ h4{
         margin-left: 100px;
 }
 th{
-    text-align: center;
+    /* text-align: center; */
     background-color: aqua;
 }
 table{
@@ -86,6 +86,7 @@ tr, td{
 iframe{
     margin: auto;
 }
+
 
 
 
