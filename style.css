@@ -6,8 +6,8 @@
 }
 
 .navbar {
-  background: white;
-  padding: 12px ;
+background: rgb(75, 74, 74);
+padding: 12px ;
   display: flex;
    margin: auto;
    margin-top: 10px;
@@ -86,6 +86,7 @@ tr, td{
 iframe{
     margin: auto;
 }
+
 
 
 
